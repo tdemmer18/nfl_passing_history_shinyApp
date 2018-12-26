@@ -1,0 +1,12 @@
+name: passinghistory
+title:
+username:
+account: tdemmer18
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 375662
+bundleId: 1474507
+url: https://tdemmer18.shinyapps.io/passinghistory/
+when: 1531276884.98931
+asMultiple: FALSE
+asStatic: FALSE
